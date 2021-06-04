@@ -1,0 +1,35 @@
+.form {
+   display: block;
+   border: 1px #DADCE0 solid;
+   width: 500px;
+   height: 590px;
+   margin: 35px 150px 68px 150px;
+   border-collapse: collapse;
+   border-radius: 5px;
+}
+.form_canle { 
+   margin: 47px 42px 62px 42px; 
+}
+.form_tieude {
+   font-size: arial;
+   
+}
+.form_icon_google {
+   
+   border-collapse: collapse;
+ 
+   
+}
+.form_nhap_email {
+   margin-top: 20px;
+
+   width: 100%;
+}
+.form_chu_thich {
+   margin-top: 5px;
+   margin-bottom: 15px;
+}
+
+.form_link_email {
+   text-decoration: none;
+}
